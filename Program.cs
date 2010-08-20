@@ -15,4 +15,9 @@ namespace ShortestPath {
 			Application.Run(new MainFrm());
 		}
 	}
+
+	public static class Forms {
+		public static MainFrm MainFrm;
+	}
+
 }
